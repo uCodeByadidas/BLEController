@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BLEController uCode</string>
+    <string name="led.state.on">ON</string>
+    <string name="led.state.off">OFF</string>
+    <string name="location.error.title">Error</string>
+    <string name="location.error.message">Location has to be enabled for scanning devices</string>
+    <string name="location.error.button">Enable</string>
+    <string name="connection_error">Connection lost! Reconnecting...</string>
+</resources>
